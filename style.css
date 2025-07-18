@@ -1,6 +1,8 @@
 @charset "UTF-8";
 /*
 Theme Name: equant-theme
+Theme URI:    equant.awe.jp /
+Author:       こすも
 */
 
 /*-------------------------------------------
@@ -143,6 +145,7 @@ Main menu
 
 .pc-menu > ul {
   display: flex;
+   justify-content: center;
   list-style: none;
 }
 .pc-menu > ul > li {

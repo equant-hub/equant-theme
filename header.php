@@ -42,9 +42,6 @@
           <li>
             <a href="<?php echo esc_url(home_url()); ?>"><i class="fa-regular fa-folder-open mr-8"></i>Menu2</a>
           </li>
-          <li>
-            <a href="<?php echo esc_url(home_url()); ?>"><i class="fa-regular fa-folder-open mr-8"></i>Menu3</a>
-          </li>
         </ul>
       </div>
       <div class="sp-menu">
