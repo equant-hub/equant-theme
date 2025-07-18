@@ -28,12 +28,6 @@
     <?php dynamic_sidebar('sidebar'); ?>
   </section>
 
-  <section class="archive">
-  <h3 class="side-title">Contact</h3>
-  <a href="https://devcosmo.biz/form/" target="_blank">
-  <img src="<?php echo get_theme_file_uri('img/mail.png'); ?>" alt="メール">
-     </a>
-  </section>
 
   <section class="archive">
   <h3 class="side-title">Privacy Policy</h3>

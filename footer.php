@@ -16,9 +16,7 @@
     </section>
     <section class="item">
       <div class="item-logo">
-        <a href="#">
         <img src="<?php echo get_theme_file_uri('img/folio.jpg'); ?>" alt="ポートフォリオ" />
-        </a>
       </div>
     </section>
   </div>
